@@ -1,0 +1,11 @@
+Database connection;
+
+1, connect mysql using mysql -u <USERNAME> -p <PASSWORD>
+2, import the testcrd.sql file.
+
+Node connection;
+
+1, Run node server as http://localhost:8002/ ==> make sure 8002 port to be available
+2, Export zip file and go into application folder.
+3, give common node 'app.js';
+4, Now your application started enjoy tha crd operation.
